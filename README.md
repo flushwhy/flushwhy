@@ -4,7 +4,7 @@ My most recent project I worked on was my discordbot called "Charterbot". The li
 
 I am mostly into 2d/3d animation, and gamedev. So I mainly work on blender addons, and Godot stuff. 
 
-I have stopped using Github has much since MicroSoft buy it, and I try to not think about it lol. 
+I have stopped using Github has much since MicroSoft bought it, and I try to not think about it lol. 
 
 - 🔭 I’m currently working on: A games using the Heaps.io framework.
 - 🌱 I’m currently learning: How to create games in Godot and Heaps.
