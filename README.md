@@ -7,7 +7,7 @@ I have stopped using Github has much since MicroSoft bought it, and I try to not
 - 🔭 I’m currently working on: working on games using Godot(2d), and unreal(3d).
 - 🌱 I’m currently learning: How to create games in Godot and Unreal.
 - 👯 I’m looking to collaborate on: Python/C++ projects around game dev or Animation.
-- 🤔 I’m looking for help with: Life
+- 🤔 I’m looking for help with: C++20, Unreal, and Netcode
 - 💬 Ask me about: Python, C++, Game Dev, Blender, or anything I have projects on.
 - 📫 How to reach me: _flush on discord.
 - ⚡ Fun fact: I love the old Jaks games. 
