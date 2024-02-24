@@ -14,7 +14,7 @@
 
 About Me: 
 
-I am a gaint Robot Chicken fan. I love animation both 2D and 3D.  I grew up playing the PS2 and I loved the Jaks games. I miss the old action adventure games, and one day I will probably make my own :). 
+I am a giant Robot Chicken fan. I love animation both 2D and 3D.  I grew up playing the PS2, and I loved the Jaks games. I miss the old action adventure games, and one day I will probably make my own :). I am new to UI and GUI development, so I am trying to learn that :)
 
 I have been learning Unreal, Raylib, and Godot. I have been messing with Kotlin and jetpack for andorid dev also. 
 
