@@ -16,7 +16,7 @@
 
 I am a big fan of adventure, straregy, FPS, puzzle, and factorio type games. I have been writing code since I was 15 years old starting on my eitlebook my aunt got my for christma one year. I started by learning the c programing langauge(I got out in time to save my hair), then then to python to train Deeplearning models, chatbots, and random other things. I have always had a passion for games, and I love to create things for other people to experience. I had a hard time learning Unreal and Unity, so I have been learning odin/Raylib. 
 
-I also create game asset packs that you can find on my parteron and the ones I don't compelete normally go on opengameart. I have about has more time in blender has I do writing code.
+I also create game asset packs that you can find on my patreon and the ones I don't compelete normally go on opengameart. I have about has more time in blender has I do writing code.
 
 I have been working on 2d/3d games that are in the space of RTS, Platformers, and topdown shooters(aka Bullet mayhems). I am down to help with anything you can add me on discord @ `_flush` or email me at the email linked on my github profile. 
 
