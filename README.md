@@ -1,35 +1,61 @@
-## hey ya!👋
+# hey ya! 👋
 
----
+> Artist. Programmer. Game developer.
+>
+> Building weird things until they become cool things.
 
 [![Itch.io](https://static.itch.io/images/logo-white-new.svg)](https://whyflush.itch.io)
 
-![CodeWars Badges](https://www.codewars.com/users/Flush/badges/large) 
+![CodeWars Badges](https://www.codewars.com/users/Flush/badges/large)
 
 ---
 
-* Skills: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
-* Learning: [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![Odin](https://custom-icon-badges.demolab.com/badge/Odin-1E5184?logo=odinlang)](#) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+## 🚀 What I'm up to
 
-## About Me: 
+🎮 Developing tech demos and prototypes for a larger game project
 
-🎨 Artist & Game Developer | 💡 Tech Explorer | 🎮 UE5 • Unity • Godot
+🎨 Creating art, tools, and systems that blend creativity with engineering
 
-Hey there! I'm a multidisciplinary artist and game developer passionate about pushing creative and technical boundaries. I love helping others explore what they thought was out of reach — whether that's through tools, ideas, or encouragement.
+🧪 Experimenting with Unreal Engine 5, Godot, and Unity
 
-Most of my work involves building proof-of-concepts and tech demos for a larger game project I'm developing. I'm hands-on in engines like Unreal Engine, Unity, and Godot, always experimenting to see what's possible.
-
-🔧 Tech Stack:
-
-💻 Programming: Python, C
-
-🚀 Learning journey: C++ (2022) → Go (2023) → Odin (2024)
-
-I'm always learning, always building, and always open to connecting with fellow creators. Let’s make something cool.
+🔍 Constantly exploring new languages, workflows, and ideas
 
 ---
 
-Tools I use:
+## 🛠 Languages
 
+### Comfortable with
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+
+### Currently learning
+
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#)
+[![Odin](https://custom-icon-badges.demolab.com/badge/Odin-1E5184?logo=odinlang)](#)
+
+---
+
+## 🎮 Engines
+
+- Unreal Engine 5
+- Godot
+- Unity
+
+---
+
+## 🔧 Toolbox
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,c,cpp,python,androidstudio,lua,apple,arduino,blender,cs,cmake,dart,docker,flutter,go,ableton,obsidian)](https://skillicons.dev)
+
+---
+
+## 🌱 Philosophy
+
+I enjoy building proof-of-concepts, exploring difficult ideas, and helping people discover things they didn't think were possible.
+
+Always learning.
+Always building.
+Always shipping.
