@@ -7,9 +7,9 @@ Building weird things until they become cool things. Bridging the gap between cr
 I build engine tooling, high-performance network utilities, and lightweight, runtime-viable AI research for games. Whether it's optimization, custom tools, or squeezing deep learning models onto constrained hardware, I write software designed to fit inside a strict frame budget.
 
 ## 🚀 Shipped Infrastructure
-[GameJolt API Plugin (UE5)]("https://github.com/flushwhy/Gamejolt") — Native C++ subsystem integration for Unreal Engine 5. Bypasses bloated wrappers to expose clean, async pipelines for leaderboards, cloud storage, and auth with zero frame-budget impact.
+[GameJolt API Plugin (UE5)](https://github.com/flushwhy/Gamejolt) — Native C++ subsystem integration for Unreal Engine 5. Bypasses bloated wrappers to expose clean, async pipelines for leaderboards, cloud storage, and auth with zero frame-budget impact.
 
-[FlushTools]("https://github.com/flushwhy/flushtoolsh") — A dependency-free, single-header C utility library. Focuses on multiplayer network optimization (bit packing, quantization, coordinate compression) and features a custom PRNG validated against 100M samples.
+[FlushTools](https://github.com/flushwhy/flushtoolsh) — A dependency-free, single-header C utility library. Focuses on multiplayer network optimization (bit packing, quantization, coordinate compression) and features a custom PRNG validated against 100M samples.
 
 ## 🧪 Active R&D
 Embedded Low-Power TTS: Replacing heavy, cloud-dependent APIs with native C/C++ inference to bring real-time, local text-to-speech dialogue systems to hardware like the Raspberry Pi.
@@ -36,4 +36,4 @@ Discord: _flush
 
 Signal: flush.01
 
-Website / R&D Logs: [FlushLabs]("https://flushwhy.github.io/labs/")
+Website / R&D Logs: [FlushLabs](https://flushwhy.github.io/labs/)
