@@ -1,61 +1,39 @@
-# hey ya! 👋
+# hey ya! 👋 I'm Flushwhy
+Systems Engineer • Tooling Developer • Technical Artist
 
-> Artist. Programmer. Game developer.
->
-> Building weird things until they become cool things.
+Building weird things until they become cool things. Bridging the gap between creative execution and extreme low-level performance.
 
-[![Itch.io](https://static.itch.io/images/logo-white-new.svg)](https://whyflush.itch.io)
+## 🔬 Welcome to FlushLabs
+I build engine tooling, high-performance network utilities, and lightweight, runtime-viable AI research for games. Whether it's optimization, custom tools, or squeezing deep learning models onto constrained hardware, I write software designed to fit inside a strict frame budget.
 
-![CodeWars Badges](https://www.codewars.com/users/Flush/badges/large)
+## 🚀 Shipped Infrastructure
+[GameJolt API Plugin (UE5)]("https://github.com/flushwhy/Gamejolt") — Native C++ subsystem integration for Unreal Engine 5. Bypasses bloated wrappers to expose clean, async pipelines for leaderboards, cloud storage, and auth with zero frame-budget impact.
 
----
+[FlushTools]("https://github.com/flushwhy/flushtoolsh") — A dependency-free, single-header C utility library. Focuses on multiplayer network optimization (bit packing, quantization, coordinate compression) and features a custom PRNG validated against 100M samples.
 
-## 🚀 What I'm up to
+## 🧪 Active R&D
+Embedded Low-Power TTS: Replacing heavy, cloud-dependent APIs with native C/C++ inference to bring real-time, local text-to-speech dialogue systems to hardware like the Raspberry Pi.
 
-🎮 Developing tech demos and prototypes for a larger game project
+ML-Enhanced 2D Physics: A deterministic 2D physics engine blending classical constraint solvers with neural approximation for complex dynamics, explicitly targeting sub-16.6ms execution.
 
-🎨 Creating art, tools, and systems that blend creativity with engineering
+## 🛠 Tech Stack & Field Toolkit
+Languages & Domains
+Languages: C, C++, Go, Odin, Python, Lua
 
-🧪 Experimenting with Unreal Engine 5, Godot, and Unity
+Engines: Unreal Engine 5, Godot, Unity
 
-🔍 Constantly exploring new languages, workflows, and ideas
-
----
-
-## 🛠 Languages
-
-### Comfortable with
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
-
-### Currently learning
-
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#)
-[![Odin](https://custom-icon-badges.demolab.com/badge/Odin-1E5184?logo=odinlang)](#)
-
----
-
-## 🎮 Engines
-
-- Unreal Engine 5
-- Godot
-- Unity
-
----
-
-## 🔧 Toolbox
-
-[![My Skills](https://skillicons.dev/icons?i=neovim,c,cpp,python,androidstudio,lua,apple,arduino,blender,cs,cmake,dart,docker,flutter,go,ableton,obsidian)](https://skillicons.dev)
-
----
+Domains: Systems Engineering, High-Performance Computing (HPC), Multiplayer Networking, Applied AI Toolset
 
 ## 🌱 Philosophy
+I love building deterministic proof-of-concepts, cracking low-level architectural challenges, and helping people discover what's possible when you strip away unnecessary abstraction.
 
-I enjoy building proof-of-concepts, exploring difficult ideas, and helping people discover things they didn't think were possible.
+Always learning. Always building. Always shipping.
 
-Always learning.
-Always building.
-Always shipping.
+## 🤝 Connect & Collaborate
+I'm always looking to swap benchmarks or talk architectural design with systems engineers, game developers, and AI/ML researchers. Let's build something real-time.
+
+Discord: _flush
+
+Signal: flush.01
+
+Website / R&D Logs: [FlushLabs]("https://flushwhy.github.io/labs/")
