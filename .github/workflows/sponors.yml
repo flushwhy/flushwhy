@@ -1,0 +1,49 @@
+name: Update sponsors
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sponsors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # $100+ : featured, big logo
+      - uses: JamesIves/github-sponsors-readme-action@v1
+        with:
+          token: ${{ secrets.SPONSORS_TOKEN }}
+          file: README.md
+          marker: sponsors-featured
+          minimum: 10000
+          template: '<a href="https://github.com/{{{ login }}}"><img src="https://github.com/{{{ login }}}.png" width="128" height="128" alt="{{{ name }}}" /></a>&nbsp;'
+
+      # $25 - $99 : logo
+      - uses: JamesIves/github-sponsors-readme-action@v1
+        with:
+          token: ${{ secrets.SPONSORS_TOKEN }}
+          file: README.md
+          marker: sponsors-logo
+          minimum: 2500
+          maximum: 9999
+          template: '<a href="https://github.com/{{{ login }}}"><img src="https://github.com/{{{ login }}}.png" width="64" height="64" alt="{{{ name }}}" /></a>&nbsp;'
+
+      # $5 - $24 : name only
+      - uses: JamesIves/github-sponsors-readme-action@v1
+        with:
+          token: ${{ secrets.SPONSORS_TOKEN }}
+          file: README.md
+          marker: sponsors-name
+          minimum: 500
+          maximum: 2499
+          template: '<a href="https://github.com/{{{ login }}}">@{{{ login }}}</a>&nbsp;'
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update sponsors"
+          file_pattern: README.md
