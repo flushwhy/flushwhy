@@ -12,6 +12,7 @@ I build engine tooling, high-performance network utilities, and lightweight, run
 
 - [**GameJolt API Plugin (UE5)**](https://github.com/flushwhy/Gamejolt) — Native C++ subsystem integration for Unreal Engine 5. Bypasses bloated wrappers to expose clean, async pipelines for leaderboards, cloud storage, and auth with zero frame-budget impact.
 - [**FlushTools**](https://github.com/flushwhy/flushtoolsh) — A dependency-free, single-header C utility library. Focuses on multiplayer network optimization (bit packing, quantization, coordinate compression) and features a custom PRNG validated against 100M samples.
+- [**FE**](https://github.com/flushwhy/fe) = A CLI tool written in go to make software and game dev easier. 
 
 ## 🧪 Active R&D
 
